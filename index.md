@@ -12,7 +12,6 @@ I am a Engineer(Master) student at [Telecom Paris](https://www.telecom-paris.fr/
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - shifeng.xie@telecom-paris.fr
 
-**<font color="#990000">I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me. Thank you!</font>**
 
 ---
 

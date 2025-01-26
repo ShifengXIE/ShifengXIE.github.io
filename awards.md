@@ -4,26 +4,28 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Update: 20th Sep 2024
+## Awards and Honors
 
-## Scholarships
+### National Awards
 
-- June 2024：**KDD-24 Undergraduate Scholarship** ($1000)<br>Only 21 undergraduates are selected around the world
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
-- Aug 2023：Innovation Scholarship ($1400)<br>One of the highest undergraduate awards at FZU
-- May 2023：XiamenAir Scholarship ($600)<br>
-- June 2024：Best Final Year Project Award of Maynooth (€500)
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Course Project Award of Maynooth (€100)
-- First Prize Scholarship of MIEC ($2100, **Four times**)<br>Combined degree scholarship between FZU and Maynooth<br>
+1. **National Scholarship (China)**  
+   *2021 Academic Year*  
+   - Awarded the highest national-level scholarship for higher education students.  
+   - Winning rate: only 0.2%.
 
-## Competitions
+2. **National Second Prize in Chinese Student Academic Physics Competition**  
+   *2021*  
+   - Northwest Division Champion and First Prize in Shaanxi Province.  
+   - Achieved the best result ever for Xidian University.
 
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：Best Technology Award in National Youth Science Innovation Project Competition (Top 1%)
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
-- May 2023：Finalist Award in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
-- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
+### International Awards
 
-<br>
+1. **Honorable Mention Award, International College Students Mathematical Contest in Modeling**  
+   *2021*  
+  
+
+### Regional and University-Level Awards
+
+1. **First Provincial Prize, Mathematical Contest in Modeling for University Students**  
+   *2021*  
+   

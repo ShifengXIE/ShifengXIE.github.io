@@ -4,7 +4,7 @@ layout: page
 
 ## About Me
 
-<img src="https://ShifengXIE.github.io/photo.png" class="floatpic">
+<img src="https://github.com/ShifengXIE/ShifengXIE.github.io/blob/main/Photo.png" class="floatpic">
 
 Here is **Shifeng XIE**.<br>
 

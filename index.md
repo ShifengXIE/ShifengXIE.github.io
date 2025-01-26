@@ -7,7 +7,7 @@ layout: page
 <img src="./ShifengXIE.png" class="floatpic">
 Here is **Shifeng XIE**.<br>
 I am a Engineer(Master) student at [Telecom Paris](https://www.telecom-paris.fr/), [Polytechnic Institute of Paris](https://www.ip-paris.fr/en). I have a keen interest in large language models (LLM), computer vision (CV), and graph neural networks (GNN). I am familiar in fundamental network models such as Transformers, Channel-Wise Attention, and UNet. Additionally, I am well-versed in various training paradigms, including contrastive learning， masked learning , joint learning ..... 
-I am planning to apply for PhD positions in 2026, and I am open to opportunities worldwide!
+I am planning to apply for PhD positions in 2026, and I am open to opportunities worldwide! \\
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - shifeng.xie@telecom-paris.fr
 
 

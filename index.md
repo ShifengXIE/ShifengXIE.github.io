@@ -4,7 +4,7 @@ layout: page
 
 ## About Me
 
-<img src="https://github.com/ShifengXIE/ShifengXIE.github.io/blob/main/Photo.png" class="floatpic">
+<img src="https://github.com/ShifengXIE/ShifengXIE.github.io/blob/main/ShifengXIE.png" class="floatpic">
 
 Here is **Shifeng XIE**.<br>
 
@@ -16,27 +16,45 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ---
 
-## Research Interests
+## Research Experiences
 
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Molecular Communication
-- Wireless Communication
-- AI-powered Communication
+### In Context Learning
+**Stellantis, France**  
+*October 2024 - NOW*  
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the Machine Learning and its applications in Industrial IoT. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+### Mixture of Experts
+**Stellantis, France**  
+*September 2024 – October 2024*  
+- Developed two patented methods for compressing experts in a mixture-of-experts model using an autoencoder.  
+- Trained 2 billion small large model with Mixture of Experts architcture.
+
+### Graph Neural Network and Graph Representation
+**Telecom Paris (Polytechnic Institute of Paris), France**  
+*December 2023 – September 2024*  
+- **First Author.** Paper: "Variational Graph Contrastive Learning."  
+  - Accepted at NeurIPS 2024 Workshop: Self-Supervised Learning - Theory and Practice.  
+  - Advisor: Jhony H. Giraldo (Assistant Professor at Télécom Paris).
+
+### Image Processing and High Dynamic Image Reconstruction
+**Xidian University, China**  
+*February 2023 – September 2023*  
+- **First Author.** Paper: "FTUnet: Feature Transferred U-Net for Single HDR Image Reconstruction."  
+  - Accepted at ACM Multimedia Asia (MMA), Oral Presentation.  
+  - Advisor: Liu Yi.
+
+### Data Twin and Intelligent Healthcare
+**Xidian University, China**  
+*April 2021 – September 2021*  
+- **First Author.** Paper: "Feasibility Study of Intelligent Healthcare Based on Digital Twin and Data Mining."  
+  - Accepted at CISAI (International Conference on Computer Information Science and Artificial Intelligence).
+
+
+
 
 ---
 
 ## News and Updates
 
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-- **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+- 
 
-<br>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

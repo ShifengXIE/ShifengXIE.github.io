@@ -16,7 +16,7 @@ title: Publications
 2. **Xie, S.**, Giraldo, J. H.  
    *Variational Graph Contrastive Learning.*  
    Accepted at **NeurIPS 2024 Workshop: Self-Supervised Learning - Theory and Practice**, 2024.  
-   [View Paper](https://neuralcompression.github.io/workshop24)
+   [View Paper](https://openreview.net/forum?id=vo99uctEaA&noteId=vo99uctEaA)
 
 3. **Xie, S.**,  Zhu S. 
    *Feasibility Study of Intelligent Healthcare Based on Digital Twin and Data Mining.*  

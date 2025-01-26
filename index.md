@@ -2,9 +2,9 @@
 layout: page
 ---
 
-# About Me
+## About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="https://ShifengXIE.github.io/photo.png" class="floatpic">
 
 Here is **Shifeng XIE**.<br>
 

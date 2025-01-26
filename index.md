@@ -6,11 +6,11 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.<br>
+Here is **Shifeng XIE**.<br>
 
-I am a graduate student in the Department of Engineering at the University of Cambridge, advised by [Prof. Özgür Akan](https://ioe.eng.cam.ac.uk/directory/akan), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/). Prior to Cambridge,  I have worked on System Engineering, Cybersecurity and Wireless Communication with [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Recently, I was honored to be selected as **AAAI-2024 and KDD-2024 Undergraduate Scholars**.<br>
+I am a Engineer(Master) student at [Telecom Paris](https://www.telecom-paris.fr/), [Polytechnic Institute of Paris](https://www.ip-paris.fr/en). I have a keen interest in large language models (LLM), computer vision (CV), and graph neural networks (GNN). I am familiar in fundamental network models such as Transformers, Channel-Wise Attention, and UNet. Additionally, I am well-versed in various training paradigms, including contrastive learning， masked learning , joint learning ..... I am planning to apply for PhD positions in 2026, and I am open to opportunities worldwide!
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hc663 [at] cam.ac.uk
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - shifeng.xie@telecom-paris.fr
 
 **<font color="#990000">I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me. Thank you!</font>**
 

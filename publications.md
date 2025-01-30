@@ -6,7 +6,7 @@ title: Publications
 
 ## Publications
 
-### Peer-Reviewed Conference Papers
+### Conference Papers
 
 1. **Xie, S.**, Giraldo, J. H.  
    *Variational Graph Contrastive Learning.*  
@@ -17,7 +17,7 @@ title: Publications
    *FTUnet: Feature Transferred U-Net for Single HDR Image Reconstruction.*  
    Accepted at **ACM Multimedia Asia (MMA)**, Oral Presentation, 2023.  
    [View Paper](https://dl.acm.org/doi/10.1145/3595916.3626431)
-   
+
 2. **Xie, S.**,  Zhu S. 
    *Feasibility Study of Intelligent Healthcare Based on Digital Twin and Data Mining.*  
    Accepted at **CISAI (International Conference on Computer Information Science and Artificial Intelligence)**, 2021.  

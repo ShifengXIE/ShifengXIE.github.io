@@ -13,15 +13,11 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ---
 
-## Research Experiences
+## Research Experiences 
 
-### In Context Learning
+### Mixture of Experts and In Context Learning
 **Stellantis, France**  
-*October 2024 - NOW*  
-
-### Mixture of Experts
-**Stellantis, France**  
-*September 2024 – October 2024*  
+*September 2024 – January 2025*  
 - I worked with [Rui yuan](https://scholar.google.com/citations?user=4QZgrj0AAAAJ&hl=zh-CN), [Simone Rossi](https://scholar.google.com/citations?user=lTt86awAAAAJ&hl=it) and [Thomas Hannagan](https://scholar.google.com/citations?user=u6OFo3YAAAAJ&hl=en)
 
 ### Graph Neural Network and Graph Representation

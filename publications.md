@@ -8,17 +8,17 @@ title: Publications
 
 ### Peer-Reviewed Conference Papers
 
-1. **Xie, S.**, Liu, Y.  ,Shuai W.
-   *FTUnet: Feature Transferred U-Net for Single HDR Image Reconstruction.*  
-   Accepted at **ACM Multimedia Asia (MMA)**, Oral Presentation, 2023.  
-   [View Paper](https://dl.acm.org/doi/10.1145/3595916.3626431)
-
-2. **Xie, S.**, Giraldo, J. H.  
+1. **Xie, S.**, Giraldo, J. H.  
    *Variational Graph Contrastive Learning.*  
    Accepted at **NeurIPS 2024 Workshop: Self-Supervised Learning - Theory and Practice**, 2024.  
    [View Paper](https://openreview.net/forum?id=vo99uctEaA&noteId=vo99uctEaA)
 
-3. **Xie, S.**,  Zhu S. 
+1. **Xie, S.**, Liu, Y.  ,Shuai W.
+   *FTUnet: Feature Transferred U-Net for Single HDR Image Reconstruction.*  
+   Accepted at **ACM Multimedia Asia (MMA)**, Oral Presentation, 2023.  
+   [View Paper](https://dl.acm.org/doi/10.1145/3595916.3626431)
+   
+2. **Xie, S.**,  Zhu S. 
    *Feasibility Study of Intelligent Healthcare Based on Digital Twin and Data Mining.*  
    Accepted at **CISAI (International Conference on Computer Information Science and Artificial Intelligence)**, 2021.  
    [View Paper](https://ieeexplore.ieee.org/document/9719314)

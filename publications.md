@@ -25,15 +25,14 @@ title: Publications
 
 ### Patents
 
-**Xie, S.**, Yuan, R., Rossi, S., Hannagan, T.  
+   **Xie, S.**, Yuan, R., Rossi, S., Hannagan, T.  
    *Neural Network Parameter Diffusion.*  
-   Patented method utilizing autoencoders and latent diffusion models to compress and generate experts in mixture-of-experts models, Stellantis, 2024.
+   - Patented method utilizing autoencoders and latent diffusion models to compress and generate experts in mixture-of-experts models.
 
-**Xie, S.**, Yuan, R., Rossi, S., Hannagan, T.  
+   **Xie, S.**, Yuan, R., Rossi, S., Hannagan, T.  
    *Permutation Symmetries Applied to DeepSeek Mixture of Experts Language Models.*  
    - Developed a novel permutation symmetry method for aligning weights in **GLU-based MoE architectures**, ensuring efficiency in model compression, fine-tuning, and merging.  
    - Applied to **DeepSeek-MoE-16B** and **Qwen1.5-MoE-A2.7B**, demonstrating identical perplexity on the **WikiText dataset** and preserving generation consistency.  
-   - The technique addresses fundamental challenges in modern **Mixture of Experts (MoE) architectures** by introducing a unified permutation matrix to align multiple parallel layers simultaneously.
 
 
 ### Reviewer 

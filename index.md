@@ -6,59 +6,107 @@ layout: page
 
 <img src="./ShifengXIE.png" class="floatpic">
 Here is **Shifeng XIE**.<br>
-I am a Engineer(Master) student at [Telecom Paris](https://www.telecom-paris.fr/), [Polytechnic Institute of Paris](https://www.ip-paris.fr/en). I have a keen interest in large language models (LLM), computer vision (CV), and graph neural networks (GNN). I am familiar in fundamental network models such as Transformers, Channel-Wise Attention, and UNet. Additionally, I am well-versed in various training paradigms, including contrastive learning， masked learning , joint learning ..... 
-I am planning to apply for PhD positions in 2026, and I am open to opportunities worldwide! \\
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - shifeng.xie@telecom-paris.fr
+I am a Master's engineering student at [Telecom Paris](https://www.telecom-paris.fr/) and the [Polytechnic Institute of Paris](https://www.ip-paris.fr/en). My research interests include large language models (LLMs), time‑series foundation models, graph neural networks and image reconstruction. I am familiar with network architectures such as Transformers, Channel‑wise attention mechanisms and UNet, and with training paradigms including contrastive, masked and joint learning.  
 
+I am planning to apply for PhD positions in 2026 and welcome opportunities worldwide!  
+If you are interested in my work, please feel free to reach out: **shifeng.xie@telecom‑paris.fr**.
 
 ---
 
 ## Research Experiences 
 
-### Mixture of Experts and In Context Learning
+### Time Series Foundation Models
+**Huawei Paris Noah’s Ark Lab, France**  
+*February 2025 – August 2025*  
+- Designed classification time‑series foundation models and demonstrated that high‑performance pretraining is possible using only synthetic data.  
+- First author of “CauKer: Classification Time Series Foundation Models Can Be Pretrained on Synthetic Data Only,” accepted by **ICML 2025 Workshop on Foundation Models for Structured Data** (Best Time Series Paper).  
+- Collaborated with Ievgen Redko and researchers from Huawei Paris.
+
+### In‑Context Learning and Mixture of Experts
 **Stellantis, France**  
-*September 2024 – January 2025*  
-- I worked with [Rui yuan](https://scholar.google.com/citations?user=4QZgrj0AAAAJ&hl=zh-CN), [Simone Rossi](https://scholar.google.com/citations?user=lTt86awAAAAJ&hl=it) and [Thomas Hannagan](https://scholar.google.com/citations?user=u6OFo3YAAAAJ&hl=en)
+*July 2024 – January 2025*  
+- Investigated in‑context learning and gradient descent in transformers and mixture‑of‑experts (MoE) models.  
+- First author of “The Initialization Determines Whether In‑Context Learning Is Gradient Descent,” published in **Transactions on Machine Learning Research (TMLR)**, 2025.  
+- Worked closely with Rui Yuan, Simone Rossi and Thomas Hannagan.
 
-### Graph Neural Network and Graph Representation
-**Telecom Paris (Polytechnic Institute of Paris), France**  
-*December 2023 – September 2024*  
-  - Advisor: [Jhony H. Giraldo](https://scholar.google.com/citations?user=iwzmGKwAAAAJ&hl=en) (Assistant Professor at Télécom Paris).
+### Graph Neural Networks and Graph Representation Learning
+**Télécom Paris (Polytechnic Institute of Paris), France**  
+*December 2023 – September 2024*  
+- Conducted research on variational graph contrastive learning and subgraph Gaussian embedding for self‑supervised graph representation.  
+- First author of “Variational Graph Contrastive Learning,” accepted by **NeurIPS 2024 Workshop on Self‑Supervised Learning – Theory and Practice**.  
+- First author of “Subgraph Gaussian Embedding Contrast for Self‑Supervised Graph Representation Learning,” accepted by **ECML‑PKDD 2025**.  
+- Supervised by [Jhony H. Giraldo](https://scholar.google.com/citations?user=iwzmGKwAAAAJ&hl=en).
 
-### Image Processing and High Dynamic Image Reconstruction
+### Image Processing and High‑Dynamic‑Range Reconstruction
 **Xidian University, China**  
-*February 2023 – September 2023*   
-  - Advisor: [Liu Yi](https://scholar.google.com/citations?user=dy8M6aEAAAAJ&hl=fr).
+*February 2023 – September 2023*  
+- Developed FTUnet for single HDR image reconstruction.  
+- First author of “FTUnet: Feature Transferred U‑Net for Single HDR Image Reconstruction,” accepted by **ACM Multimedia Asia (MMA) 2023**, oral presentation.  
+- Advised by [Liu Yi](https://scholar.google.com/citations?user=dy8M6aEAAAAJ&hl=fr).
 
 ### Data Twin and Intelligent Healthcare
 **Xidian University, China**  
-*April 2021 – September 2021*  
-
+*April 2021 – September 2021*  
+- Researched the feasibility of intelligent healthcare based on digital twin and data mining.  
+- First author of “Feasibility Study of Intelligent Healthcare Based on Digital Twin and Data Mining,” accepted by **CISAI 2021**.
 
 ---
 
 ## Education
 
-### Master in Engineering (Signal Processing for Artificial Intelligence)
-**Telecom Paris, Polytechnic Institute of Paris, France**  
-*August 2023 – Present*  
-- Current Grade: **15.3/20**    
+### Master in Engineering – Signal Processing for Artificial Intelligence
+**Télécom Paris & Polytechnic Institute of Paris, France**  
+*August 2023 – Present*  
+- Current grade: **15.3 / 20**.
 
-### Summer Exchange Program (Machine Learning)
+### Summer Exchange Program – Machine Learning
 **McGill University, Canada**  
-*July 2021 – August 2021*  
-- Achieved Grade: **A**  
+*July 2021 – August 2021*  
+- Achieved grade: **A**.
 
-### Bachelor of Engineering (Electronic Information Engineering)
+### Bachelor of Engineering – Electronic Information Engineering
 **Xidian University, China**  
-*August 2019 – May 2023*  
-- GPA: **3.8/4.0**  
-- Rank: **4th/97**  
+*August 2019 – May 2023*  
+- GPA: **3.8 / 4.0**.  
+- Rank: **4 / 97**.
+
+---
+
+## Selected Projects
+
+- **Pretraining tiny vision & language models (≈ 2 billion parameters):** Trained mixture‑of‑experts models using 8 A100 80 GB GPUs on the C4 and ImageNet datasets.  
+- **Fine‑tuning MoE language models with permutation symmetries and LoRA (patented):** Applied permutation symmetries and Low‑Rank Adaptation to MoE models (e.g., Mistral, DeepSeek, Qwen) to improve efficiency.  
+- **Unsupervised face recognition with PCA and ICA:** Implemented PCA and ICA to extract and modify facial features, enhancing recognition accuracy.  
+- **Self‑supervised learning for medical image classification:** Developed contrastive learning methods on the MedMNIST database to learn representations without annotations.  
+- **Neural network parameter diffusion (patented):** Compressed experts from MoE models into a latent space via autoencoders and trained latent diffusion models to generate new experts.
+
+---
+
+## Honors and Awards
+
+- **Best Time Series Paper**, ICML 2025 Workshop on Foundation Models for Structured Data – for “CauKer: Classification Time Series Foundation Models Can Be Pretrained on Synthetic Data Only”.  
+- **Champion**, Huawei France Tech Arena “Light Chaser” Competition (2024).  
+- **National Scholarship** (China, 2021) – highest national‑level scholarship with a 0.2 % acceptance rate.  
+- **National Second Prize**, Chinese Student Academic Physics Competition (2021).  
+- **Northwest Division Champion & First Prize**, Shaanxi Province, Chinese Student Academic Physics Competition – best result ever at Xidian University.  
+- **Honorable Mention**, International College Students Mathematical Contest in Modeling (2021).  
+- **First Provincial Prize**, Mathematical Contest in Modeling for University Students (2021).
+
+---
+
+## Skills & Service
+
+- **Languages:** Chinese (native), English (C1), French (B2).  
+- **Programming:** Python (PyTorch, TensorFlow, JAX, SciPy, Pandas), JavaScript, Java, C++ and C.  
+- **Hardware:** Arduino, STM32, SolidWorks, VHDL, ARM and RISC.  
+- **Professional service:** Reviewer for **NeurIPS 2024 Workshop on Compression**, **COLM 2025**, and **NeurIPS 2025**.
 
 ---
 
 ## News and Updates
 
-- 
-
-
+- *August 2025:* “CauKer: Classification Time Series Foundation Models Can Be Pretrained on Synthetic Data Only” won the **Best Time Series Paper** award at the ICML 2025 Workshop on Foundation Models for Structured Data.  
+- *July 2025:* Published “The Initialization Determines Whether In‑Context Learning Is Gradient Descent” in **TMLR**.  
+- *December 2024:* “Variational Graph Contrastive Learning” accepted at the NeurIPS 2024 Workshop on Self‑Supervised Learning – Theory and Practice.  
+- *May 2024:* Champion in Huawei France Tech Arena “Light Chaser” Competition.  
+- *September 2023:* Presented “FTUnet: Feature Transferred U‑Net for Single HDR Image Reconstruction” at ACM Multimedia Asia 2023 (oral).

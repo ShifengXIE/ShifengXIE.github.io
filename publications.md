@@ -17,7 +17,7 @@ title: Publications
   ICML 2025 Workshop on Foundation Models for Structured Data (Best Time Series Paper), 2025.  
   [arXiv](https://arxiv.org/abs/2508.02879)
 
-- **Xie, S.**, Giraldo, J. H.  
+- **Xie, S.**, Aref,E., Giraldo, J. H.  
   *Subgraph Gaussian Embedding Contrast for Self‑Supervised Graph Representation Learning.*  
   ECML‑PKDD 2025.  
 

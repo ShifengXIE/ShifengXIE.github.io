@@ -80,17 +80,6 @@ If you are interested in my work, please feel free to reach out: **shifeng.xie@t
 - **Self‑supervised learning for medical image classification:** Developed contrastive learning methods on the MedMNIST database to learn representations without annotations.  
 - **Neural network parameter diffusion (patented):** Compressed experts from MoE models into a latent space via autoencoders and trained latent diffusion models to generate new experts.
 
----
-
-## Honors and Awards
-
-- **Best Time Series Paper**, ICML 2025 Workshop on Foundation Models for Structured Data – for “CauKer: Classification Time Series Foundation Models Can Be Pretrained on Synthetic Data Only”.  
-- **Champion**, Huawei France Tech Arena “Light Chaser” Competition (2024).  
-- **National Scholarship** (China, 2021) – highest national‑level scholarship with a 0.2 % acceptance rate.  
-- **National Second Prize**, Chinese Student Academic Physics Competition (2021).  
-- **Northwest Division Champion & First Prize**, Shaanxi Province, Chinese Student Academic Physics Competition – best result ever at Xidian University.  
-- **Honorable Mention**, International College Students Mathematical Contest in Modeling (2021).  
-- **First Provincial Prize**, Mathematical Contest in Modeling for University Students (2021).
 
 ---
 
@@ -101,12 +90,3 @@ If you are interested in my work, please feel free to reach out: **shifeng.xie@t
 - **Hardware:** Arduino, STM32, SolidWorks, VHDL, ARM and RISC.  
 - **Professional service:** Reviewer for **NeurIPS 2024 Workshop on Compression**, **COLM 2025**, and **NeurIPS 2025**.
 
----
-
-## News and Updates
-
-- *August 2025:* “CauKer: Classification Time Series Foundation Models Can Be Pretrained on Synthetic Data Only” won the **Best Time Series Paper** award at the ICML 2025 Workshop on Foundation Models for Structured Data.  
-- *July 2025:* Published “The Initialization Determines Whether In‑Context Learning Is Gradient Descent” in **TMLR**.  
-- *December 2024:* “Variational Graph Contrastive Learning” accepted at the NeurIPS 2024 Workshop on Self‑Supervised Learning – Theory and Practice.  
-- *May 2024:* Champion in Huawei France Tech Arena “Light Chaser” Competition.  
-- *September 2023:* Presented “FTUnet: Feature Transferred U‑Net for Single HDR Image Reconstruction” at ACM Multimedia Asia 2023 (oral).

@@ -6,9 +6,11 @@ layout: page
 
 <img src="./ShifengXIE.png" class="floatpic">
 Here is **Shifeng XIE**.<br>
-I am a Master's engineering student at [Telecom Paris](https://www.telecom-paris.fr/) and the [Polytechnic Institute of Paris](https://www.ip-paris.fr/en). My research interests include large language models (LLMs), time‑series foundation models, graph neural networks and image reconstruction. I am familiar with network architectures such as Transformers, Channel‑wise attention mechanisms and UNet, and with training paradigms including contrastive, masked and joint learning.  
+Here is <strong>Shifeng XIE</strong>.<br>
+I am a PhD student in Prof. <a href="https://helios2.mi.parisdescartes.fr/~themisp/">Themis Palpanas’s</a> group at Université Paris Cité. Previously, I studied engineering at <a href="https://www.telecom-paris.fr/">Télécom Paris</a> and the <a href="https://www.ip-paris.fr/en">Institut Polytechnique de Paris</a>. My research interests focus on time-series foundation models and agentic systems (LLM-based agents) for forecasting, reasoning, and decision-making. 
+ 
 
-I am planning to apply for PhD positions in 2026 and welcome opportunities worldwide!  
+I am planning to apply for PhD intern positions in 2027 and welcome opportunities worldwide!  
 If you are interested in my work, please feel free to reach out: **shifeng.xie@telecom‑paris.fr**.
 
 ---

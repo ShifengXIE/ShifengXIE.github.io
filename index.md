@@ -6,7 +6,7 @@ layout: page
 
 <img src="./ShifengXIE.png" class="floatpic">
 Here is **Shifeng XIE**.<br>
-I am a PhD student in Prof. <a href="https://helios2.mi.parisdescartes.fr/~themisp/">Themis Palpanas’s</a> group at Université Paris Cité. Previously, I studied engineering at <a href="https://www.telecom-paris.fr/">Télécom Paris</a> and the <a href="https://www.ip-paris.fr/en">Institut Polytechnique de Paris</a>. My research interests focus on time-series foundation models and agentic systems (LLM-based agents) for forecasting, reasoning, and decision-making. 
+I am a PhD student in Prof. <a href="https://helios2.mi.parisdescartes.fr/~themisp/">Themis Palpanas’s</a> group at Université Paris Cité. Previously, I studied engineering at <a href="https://www.telecom-paris.fr/">Télécom Paris</a> and the <a href="https://www.ip-paris.fr/en">Institut Polytechnique de Paris</a>. My research interests focus on time series foundation models and agentic systems for forecasting, reasoning, and decision-making. 
  
 
 I am planning to apply for PhD intern positions in 2027 and welcome opportunities worldwide!  

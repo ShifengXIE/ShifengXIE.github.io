@@ -14,7 +14,7 @@ title: Awards
    - Recognizes outstanding work on time series foundation models.
 
 2. **Champion, Huawei France Tech Arena “Light Chaser” Competition**  
-   *2024*  
+   *2025*  
    - Team rank: **1/27** in a national AI challenge organized by Huawei France.  
    - Focused on challenging real-world AI problems.
 

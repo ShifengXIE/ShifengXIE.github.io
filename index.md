@@ -12,15 +12,32 @@ I am a PhD student in Prof. <a href="https://helios2.mi.parisdescartes.fr/~themi
 I am planning to apply for PhD intern positions in 2027 and welcome opportunities worldwide!  
 If you are interested in my work, please feel free to reach out: **shifeng.xie@telecom‑paris.fr**.
 
+[Google Scholar](https://scholar.google.com/citations?user=UNJ9TqQAAAAJ) · [LinkedIn](https://www.linkedin.com/in/shifeng-xie-953757209/)
+
 ---
 
-## Research Experiences 
+## Selected Publications
+
+- **CauKer: Classification Time Series Foundation Models Can Be Pretrained on Synthetic Data.** **Shifeng Xie** et al. ICLR 2026. [Paper](https://proceedings.iclr.cc/paper_files/paper/2026/hash/702b67152ec4435795f681865b67999c-Abstract-Conference.html)
+- **Mantis: Lightweight Foundation Model for Time Series Classification.** Vasilii Feofanov, Songkang Wen, **Shifeng Xie** et al. ICML 2026. [Paper](https://openreview.net/forum?id=gbJMAjXLZ4)
+- **Tabby: An Open Pretraining Recipe for Time Series Foundation Models.** **Shifeng Xie** et al. Technical report, 2026. [Preprint](https://arxiv.org/abs/2609.13956)
+- **Post-Training in Time Series Foundation Models: A Unifying Framework.** **Shifeng Xie** et al. Preprint, 2026. [Preprint](https://arxiv.org/abs/2607.20002)
+- **TSFMAudit: Data Contamination Auditing in Forecasting Time Series Foundation Models.** Hongkai Li and **Shifeng Xie** (equal contribution) et al. Preprint, 2026. [Preprint](https://arxiv.org/abs/2605.26161)
+- **Rethinking Zero-Shot Time Series Classification: From Task-specific Classifiers to In-Context Inference.** Juntao Fang and **Shifeng Xie** (equal contribution) et al. Preprint, 2026. [Preprint](https://arxiv.org/abs/2602.00620)
+- **The Initialization Determines Whether In-Context Learning Is Gradient Descent.** **Shifeng Xie** et al. TMLR 2025. [Paper](https://openreview.net/forum?id=fvqSKLDtJi)
+- **Subgraph Gaussian Embedding Contrast for Self-Supervised Graph Representation Learning.** **Shifeng Xie** et al. ECML-PKDD 2025. [Paper](https://doi.org/10.1007/978-3-032-06106-5_25)
+
+[Full publication list](/publications/index.html)
+
+---
+
+## Research Experiences
 
 ### Time Series Foundation Models
 **Huawei Paris Noah’s Ark Lab, France**  
 *February 2025 – August 2025*  
 - Designed classification time‑series foundation models and demonstrated that high‑performance pretraining is possible using only synthetic data.  
-- First author of “CauKer: Classification Time Series Foundation Models Can Be Pretrained on Synthetic Data Only,” accepted by **ICML 2025 Workshop on Foundation Models for Structured Data** (Best Time Series Paper).  
+- First author of “[CauKer: Classification Time Series Foundation Models Can Be Pretrained on Synthetic Data](https://proceedings.iclr.cc/paper_files/paper/2026/hash/702b67152ec4435795f681865b67999c-Abstract-Conference.html),” published at **ICLR 2026**.  
 - Collaborated with Ievgen Redko and researchers from Huawei Paris.
 
 ### In‑Context Learning and Mixture of Experts
@@ -90,4 +107,3 @@ If you are interested in my work, please feel free to reach out: **shifeng.xie@t
 - **Programming:** Python (PyTorch, TensorFlow, JAX, SciPy, Pandas), JavaScript, Java, C++ and C.  
 - **Hardware:** Arduino, STM32, SolidWorks, VHDL, ARM and RISC.  
 - **Professional service:** Reviewer for **NeurIPS 2024 Workshop on Compression**, **COLM 2025**, and **NeurIPS 2025**.
-

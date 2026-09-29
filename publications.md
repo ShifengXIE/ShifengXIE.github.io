@@ -36,19 +36,14 @@ This list includes peer-reviewed journal and main-conference papers, plus first-
 
 - **Variational Graph Contrastive Learning.** **Shifeng Xie** and Jhony H. Giraldo. NeurIPS 2024 Workshop on Self-Supervised Learning. [Paper](https://openreview.net/forum?id=vo99uctEaA)
 
-### Patents
-
+## Patents
 
 - **Neural Network Parameter Diffusion** – Xie, S., Yuan, R., Rossi, S., Hannagan, T.  
   Utilizes autoencoders and latent diffusion to compress and generate experts within mixture‑of‑experts models.
 
-
 - **Permutation Symmetries Applied to DeepSeek Mixture of Experts Language Models** – Xie, S., Yuan, R., Rossi, S., Hannagan, T.  
   Introduces a novel weight permutation symmetry for aligning experts in GLU‑based MoE architectures, enabling efficient compression, fine‑tuning and merging for models like DeepSeek‑MoE‑16B and Qwen1.5‑MoE‑A2.7B.
 
-
-### Reviewer & Service
-
+## Reviewer & Service
 
 - Reviewer for **NeurIPS 2024 Workshop on Compression**, **COLM 2025**, and **NeurIPS 2025**.
-

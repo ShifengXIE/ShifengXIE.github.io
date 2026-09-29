@@ -4,46 +4,51 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-## Publications
+## Selected Publications
 
-### Journal & Conference Papers
+This list includes peer-reviewed journal and main-conference papers, plus first-author or equal-contribution first-author preprints and workshop papers. Workshop papers are not counted as main-conference publications.
 
-- **Xie, S.**, Yuan, R., Rossi, S., Hannagan, T.  
-  *The Initialization Determines Whether In‑Context Learning Is Gradient Descent.*  
-  Transactions on Machine Learning Research (TMLR), 2025.  
+### Peer-reviewed journal and conference papers
 
-- **Xie, S.**, Redko, I., Feofanov, V., Alonso, M., Odonnat, A., Zhang, J., Palpanas, T.  
-  *CauKer: Classification Time Series Foundation Models Can Be Pretrained on Synthetic Data Only.*  
-  ICML 2025 Workshop on Foundation Models for Structured Data (Best Time Series Paper), 2025.  
-  [arXiv](https://arxiv.org/abs/2508.02879)
+- **CauKer: Classification Time Series Foundation Models Can Be Pretrained on Synthetic Data.** **Shifeng Xie**, Vasilii Feofanov, Jianfeng Zhang, Themis Palpanas, and Ievgen Redko. ICLR 2026. [Paper](https://proceedings.iclr.cc/paper_files/paper/2026/hash/702b67152ec4435795f681865b67999c-Abstract-Conference.html)
 
-- **Xie, S.**, Aref,E., Giraldo, J. H.  
-  *Subgraph Gaussian Embedding Contrast for Self‑Supervised Graph Representation Learning.*  
-  ECML‑PKDD 2025.  
+- **Mantis: Lightweight Foundation Model for Time Series Classification.** Vasilii Feofanov, Songkang Wen, **Shifeng Xie**, et al. ICML 2026. [Paper](https://openreview.net/forum?id=gbJMAjXLZ4)
 
-- **Xie, S.**, Giraldo, J. H.  
-  *Variational Graph Contrastive Learning.*  
-  NeurIPS 2024 Workshop on Self‑Supervised Learning – Theory and Practice, 2024.  
-  [View Paper](https://openreview.net/forum?id=vo99uctEaA)
+- **The Initialization Determines Whether In-Context Learning Is Gradient Descent.** **Shifeng Xie**, Rui Yuan, Simone Rossi, and Thomas Hannagan. TMLR 2025. [Paper](https://openreview.net/forum?id=fvqSKLDtJi)
 
-- **Xie, S.**, Liu, Y., Shuai, W.  
-  *FTUnet: Feature Transferred U‑Net for Single HDR Image Reconstruction.*  
-  ACM Multimedia Asia (MMA), 2023 – Oral Presentation.  
-  [View Paper](https://dl.acm.org/doi/10.1145/3595916.3626431)
+- **Subgraph Gaussian Embedding Contrast for Self-Supervised Graph Representation Learning.** **Shifeng Xie**, Aref Einizade, and Jhony H. Giraldo. ECML-PKDD 2025. [Paper](https://doi.org/10.1007/978-3-032-06106-5_25)
 
-- **Xie, S.**, Zhu, S.  
-  *Feasibility Study of Intelligent Healthcare Based on Digital Twin and Data Mining.*  
-  International Conference on Computer Information Science and Artificial Intelligence (CISAI), 2021.  
-  [View Paper](https://ieeexplore.ieee.org/document/9719314)
+- **FTUnet: Feature Transferred U-Net for Single HDR Image Reconstruction.** **Shifeng Xie**, Yi Liu, and Wenjing Shuai. ACM Multimedia Asia 2023 (oral). [Paper](https://doi.org/10.1145/3595916.3626431)
+
+- **Feasibility Study of Intelligent Healthcare Based on Digital Twin and Data Mining.** **Shifeng Xie**, Shuang Zhu, and J. Dai. CISAI 2021. [Paper](https://ieeexplore.ieee.org/document/9719314)
+
+### First-author preprints and workshop papers
+
+- **Tabby: An Open Pretraining Recipe for Time Series Foundation Models.** **Shifeng Xie** et al. Technical report, arXiv 2026. [Preprint](https://arxiv.org/abs/2609.13956)
+
+- **Post-Training in Time Series Foundation Models: A Unifying Framework.** **Shifeng Xie** et al. Preprint, arXiv 2026. [Preprint](https://arxiv.org/abs/2607.20002)
+
+- **TSFMAudit: Data Contamination Auditing in Forecasting Time Series Foundation Models.** Hongkai Li and **Shifeng Xie** (equal contribution) et al. Preprint, arXiv 2026. [Preprint](https://arxiv.org/abs/2605.26161)
+
+- **Rethinking Zero-Shot Time Series Classification: From Task-specific Classifiers to In-Context Inference.** Juntao Fang and **Shifeng Xie** (equal contribution) et al. Preprint, arXiv 2026. [Preprint](https://arxiv.org/abs/2602.00620)
+
+- **Time Series Foundation Models Improve LLM Decisions: A Case Study in Stock Trading.** **Shifeng Xie** and Ziwei Li (equal contribution) et al. ICLR 2026 Workshop on Time Series in the Age of Large Models. [Paper](https://openreview.net/pdf/1067feb239abddfed7aabb429854520151a2fe0f.pdf)
+
+- **Variational Graph Contrastive Learning.** **Shifeng Xie** and Jhony H. Giraldo. NeurIPS 2024 Workshop on Self-Supervised Learning. [Paper](https://openreview.net/forum?id=vo99uctEaA)
 
 ### Patents
+
 
 - **Neural Network Parameter Diffusion** – Xie, S., Yuan, R., Rossi, S., Hannagan, T.  
   Utilizes autoencoders and latent diffusion to compress and generate experts within mixture‑of‑experts models.
 
+
 - **Permutation Symmetries Applied to DeepSeek Mixture of Experts Language Models** – Xie, S., Yuan, R., Rossi, S., Hannagan, T.  
   Introduces a novel weight permutation symmetry for aligning experts in GLU‑based MoE architectures, enabling efficient compression, fine‑tuning and merging for models like DeepSeek‑MoE‑16B and Qwen1.5‑MoE‑A2.7B.
 
+
 ### Reviewer & Service
 
+
 - Reviewer for **NeurIPS 2024 Workshop on Compression**, **COLM 2025**, and **NeurIPS 2025**.
+

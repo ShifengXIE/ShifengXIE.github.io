@@ -6,7 +6,7 @@ title: Publications
 
 ## Selected Publications
 
-This list includes peer-reviewed journal and main-conference papers, plus first-author or equal-contribution first-author preprints and workshop papers. Workshop papers are not counted as main-conference publications.
+Journal and main-conference papers, plus first-author and equal-contribution first-author preprints and workshop papers.
 
 ### Peer-reviewed journal and conference papers
 
@@ -35,15 +35,3 @@ This list includes peer-reviewed journal and main-conference papers, plus first-
 - **Time Series Foundation Models Improve LLM Decisions: A Case Study in Stock Trading.** **Shifeng Xie** and Ziwei Li (equal contribution) et al. ICLR 2026 Workshop on Time Series in the Age of Large Models. [Paper](https://openreview.net/pdf/1067feb239abddfed7aabb429854520151a2fe0f.pdf)
 
 - **Variational Graph Contrastive Learning.** **Shifeng Xie** and Jhony H. Giraldo. NeurIPS 2024 Workshop on Self-Supervised Learning. [Paper](https://openreview.net/forum?id=vo99uctEaA)
-
-## Patents
-
-- **Neural Network Parameter Diffusion** – Xie, S., Yuan, R., Rossi, S., Hannagan, T.  
-  Utilizes autoencoders and latent diffusion to compress and generate experts within mixture‑of‑experts models.
-
-- **Permutation Symmetries Applied to DeepSeek Mixture of Experts Language Models** – Xie, S., Yuan, R., Rossi, S., Hannagan, T.  
-  Introduces a novel weight permutation symmetry for aligning experts in GLU‑based MoE architectures, enabling efficient compression, fine‑tuning and merging for models like DeepSeek‑MoE‑16B and Qwen1.5‑MoE‑A2.7B.
-
-## Reviewer & Service
-
-- Reviewer for **NeurIPS 2024 Workshop on Compression**, **COLM 2025**, and **NeurIPS 2025**.

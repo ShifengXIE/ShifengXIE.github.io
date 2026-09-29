@@ -1,3 +1,5 @@
-# Personal Academic Portfolio
+# Shifeng Xie
 
-Welcome to my academic portfolio! This repository hosts my personal website, showcasing my research, publications, awards, and professional experiences. The site is built using Jekyll and GitHub Pages to present my academic journey in a clean and organized manner.
+Source for [shifengxie.github.io](https://shifengxie.github.io/), an academic homepage built with Jekyll and GitHub Pages.
+
+The site has three pages: About Me, Publications, and Awards.

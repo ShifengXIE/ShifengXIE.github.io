@@ -6,7 +6,9 @@ layout: page
 
 I am **Shifeng Xie**, a PhD student at Université Paris Cité working with [Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/). My research focuses on time series foundation models for classification, forecasting, and decision-making. I previously studied at [Télécom Paris](https://www.telecom-paris.fr/) and the [Institut Polytechnique de Paris](https://www.ip-paris.fr/en).
 
-I welcome PhD internship opportunities in 2027. Contact:**shifeng.xie@telecom-paris.fr**.
+I welcome PhD internship opportunities in 2027. 
+
+Contact:**shifeng.xie@telecom-paris.fr**.
 
 [Google Scholar](https://scholar.google.com/citations?user=UNJ9TqQAAAAJ) · [LinkedIn](https://www.linkedin.com/in/shifeng-xie-953757209/)
 

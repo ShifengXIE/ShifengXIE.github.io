@@ -12,6 +12,8 @@ Contact:**shifeng.xie@telecom-paris.fr**.
 
 [Google Scholar](https://scholar.google.com/citations?user=UNJ9TqQAAAAJ) · [LinkedIn](https://www.linkedin.com/in/shifeng-xie-953757209/)
 
+I am currently building [TSC-FM](https://tsc-fm.dmirlab.com/), a benchmark for time series classification foundation models.
+
 ## Selected Publications
 
 - [CauKer: Classification Time Series Foundation Models Can Be Pretrained on Synthetic Data](https://proceedings.iclr.cc/paper_files/paper/2026/hash/702b67152ec4435795f681865b67999c-Abstract-Conference.html) — ICLR 2026.
